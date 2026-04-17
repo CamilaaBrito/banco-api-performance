@@ -27,7 +27,7 @@ export default function() {
   };
     
   let res = http.post(url, payload, params);
-  console.log(res)
+  
 
   check(res, { "status is 201": (res) => res.status === 201 });
   sleep(1);
