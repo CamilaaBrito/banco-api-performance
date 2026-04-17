@@ -1,7 +1,7 @@
 # Testes de Performance com K6
 
 ## Introdução
-Este projeto tem como objetivo realizar testes de performance utilizando JavaScript com a ferramenta K6 na API do sistema bancario desenvolvida pelo Julio de lima.
+Este projeto tem como objetivo realizar testes de performance utilizando JavaScript com a ferramenta K6 na API do sistema bancário desenvolvida pelo Julio de lima.
 
 Os testes simulam cargas de usuários para avaliar o comportamento da aplicação em diferentes cenários, permitindo identificar gargalos, medir tempo de resposta e contribuindo com a estabilidade do sistema. Os testes são escritos com foco em modularidade, organização por contexto e reutilização de modelos de dados.
 
@@ -28,7 +28,7 @@ banco-api-performance/
 Casos de teste organizado por mmódulo da API.
 
 ### Helpers/
-Funções auxiliares reutilizáveis para interação com a API
+Funções auxiliares reutilizáveis para interação com a API.
 
 ### fixtures/
 Dados de entrada utilizados nos testes.
